@@ -54,10 +54,10 @@ This Streamlit application is designed for an interactive intake form process. I
    Start the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
-   Replace `app.py` with the name of your Python file.
+   Replace `main.py` with the name of your Python file.
 
 6. **Access the Application**
    Open the URL provided in the terminal (e.g., `http://localhost:8501`) in a web browser to view and interact with the form.
